@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarjiPriyank
+- 👋 Hi, I’m Priyank Darji
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 
